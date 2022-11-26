@@ -3,6 +3,7 @@ image:
 
 ports:
   - port: 19000-19002
+  - port: 4040
 
 tasks:
   - before: npm install
